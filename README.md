@@ -24,6 +24,10 @@
 [![📄 Landing GitHub Pages](https://img.shields.io/badge/📄_Landing-GitHub_Pages-B8D6F4?style=for-the-badge&labelColor=0a0a0f)](https://sympli250.github.io/intelligence-privee-landing/)
 [![🤝 Partenaires MSP](https://img.shields.io/badge/🤝_Partenaires-MSP%20%26%20Intégrateurs-0a0a0f?style=for-the-badge&labelColor=B8D6F4&color=0a0a0f)](https://intelligence-privee.com#partenaires)
 
+<br />
+
+<sub>Migration org <code>intelligence-privee</code> en préparation · URLs futures documentées dans <code>docs/GITHUB_ORG_MIGRATION.md</code></sub>
+
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=Sympli250&label=Visites%20profil&color=B8D6F4&style=flat-square" alt="Visites profil" />
@@ -212,9 +216,11 @@ Inférence on-device (Lamazero GGUF).
 <td width="50%">
 
 ### [`intelligence-privee-landing`](https://github.com/Sympli250/intelligence-privee-landing)
-Page GitHub Pages — point d'entrée vers le site officiel.
+Landing GitHub Pages complète — hero, fonctionnalités, métriques, stack, MSP, FAQ.
 
 [![Pages](https://img.shields.io/badge/GitHub_Pages-live-B8D6F4?style=flat-square&labelColor=0a0a0f)](https://sympli250.github.io/intelligence-privee-landing/)
+
+> *Pending migration → `github.com/intelligence-privee/landing`*
 
 </td>
 <td width="50%">
@@ -223,6 +229,8 @@ Page GitHub Pages — point d'entrée vers le site officiel.
 Code source de l'application desktop — **dépôt privé**, accès sur demande.
 
 [![Private](https://img.shields.io/badge/Accès-sur_demande-0a0a0f?style=flat-square&labelColor=B8D6F4)](https://intelligence-privee.com)
+
+> *Pending migration → `github.com/intelligence-privee/desktop`*
 
 </td>
 </tr>
